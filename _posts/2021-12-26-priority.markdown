@@ -4,7 +4,7 @@ title:  "Priority List"
 date:   2021-12-26 16:21:04 +0530
 categories: posts
 ---
-This is the priority list for me -
+This is the priority list for me
 
 - Create this WebSite
 - write rules
