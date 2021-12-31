@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Summaries
+title: summaries
 permalink: /summaries/
 ---
 
-This is a page to list down the summaries that I create.
+this is a page to list down the summaries that i create.

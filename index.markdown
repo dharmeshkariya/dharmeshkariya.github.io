@@ -1,8 +1,7 @@
 ---
 layout: page
 ---
-Hey. I am Dharmesh Kariya.
+hey. i am Dharmesh Kariya.
+i write about my experiences and thoughts here.
 
-I write about my experiences and thoughts here.
-
-Thanks for stopping by. :)
+thanks for stopping by :)
