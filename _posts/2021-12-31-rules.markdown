@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "rules"
+date:   2021-12-31 16:21:04 +0530
+categories: posts
+visible: 1
+---
+rules
+
+- document everything. don't repeat things. link instead.
+- teach what i know. write blogs and share.
+- use the [Feynman Technique](https://fs.blog/feynman-technique/) to learn.
+- write summary of good stuff you read.
+- improve the signal-noise ratio for your information consumption.
+- trust more.
+> Never attribute to malice that which can be adequately explained by [neglect](https://fs.blog/mental-model-hanlons-razor/?s=08).
