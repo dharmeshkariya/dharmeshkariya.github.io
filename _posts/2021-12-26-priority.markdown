@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Priority List"
+title:  "priority list"
 date:   2021-12-26 16:21:04 +0530
 categories: posts
 visible: 1
 ---
-This is the priority list for me
+this is the priority list for me
 
-- Create this WebSite
+- create this website
 - write rules
-- Complete the course [here](https://manassaloi.com/2020/01/21/aristos-pm-coaching.html)
-- Work on [career plan](https://manassaloi.com/2020/05/11/career-dev-plan.html)
+- complete the course [here](https://manassaloi.com/2020/01/21/aristos-pm-coaching.html)
+- work on [career plan](https://manassaloi.com/2020/05/11/career-dev-plan.html)
 - setup wardrobe rules
 - optimize personal google search
