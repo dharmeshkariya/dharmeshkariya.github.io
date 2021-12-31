@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /about/
 ---
 Hey. I am Dharmesh Kariya.
 
