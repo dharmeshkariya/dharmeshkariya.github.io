@@ -1,5 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: page
+permalink: /about/
 ---
+Hey. I am Dharmesh Kariya.
+
+I write about my experiences and thoughts here.
+
+Thanks for stopping by. :)
