@@ -8,10 +8,14 @@ visible: 1
 
 - document everything. don't repeat things. link instead.
 - teach what i know. write blogs and share.
-- use the [Feynman Technique](https://fs.blog/feynman-technique/) to learn.
+- start with the first principles.
+- use the [Feynman Technique](https://fs.blog/feynman-technique/){:target="_blank"} to learn.
 - write summary of good stuff you read.
 - improve the signal-noise ratio for your information consumption.
 - trust more.
   > Never attribute to malice that which can be adequately explained by [neglect](https://fs.blog/mental-model-hanlons-razor/)
 - bookmark good sources in a folder. bookmark good articles in a different folder.
 - create playbooks for any task that is encountered frequently or requires effort to do again from scratch.
+- create a system for every goal. focus on following the system.
+  > If you do something every day, it’s a system. If you’re waiting to achieve it someday in the future, it’s a goal.
+- plan your day in the [morning](https://fs.blog/bregman-finding-focus/). review in the evening.
